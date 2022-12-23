@@ -1,7 +1,7 @@
 # UFOs
 
 ## Purpose of the Project
-The Purpose of this project is to put our UFO sighting data into a table, enable functional filter criteria based upon the data keys i.e find information based upon the various keys and the multiple data values associated with each data key to promote user interaction with our Visualisation.
+The Purpose of this project is to put our UFO sighting data into a table, enable functional filter criteria based upon the data keys i.e find information based upon the various keys and the multiple data values associated with each data key to promote user interaction with our Visualization.
 
 # Resources
 HTML  
